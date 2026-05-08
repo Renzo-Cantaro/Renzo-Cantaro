@@ -1,4 +1,4 @@
-Hi, I'm Renzo Cantaro 
+# Hi, I'm Renzo Cantaro 
 I'm a Software Engineering student from Peru, currently learning Java and Firebase.
 
 ## About me:
